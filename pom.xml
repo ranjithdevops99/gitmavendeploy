@@ -42,11 +42,7 @@
           <artifactId>maven-resources-plugin</artifactId>
           <version>3.0.2</version>
         </plugin>
-        <plugin>
-       <artifactId>maven-war-plugin</artifactId>
-      <version>3.0.0</version>
-        </plugin>
-        <plugin>
+           <plugin>
           <artifactId>maven-compiler-plugin</artifactId>
           <version>3.7.0</version>
         </plugin>
